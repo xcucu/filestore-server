@@ -1,2 +1,2 @@
-# video-server
-go语言学习练习项目
+# filestore-server
+go语言的文件云存储系统
